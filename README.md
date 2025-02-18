@@ -1,6 +1,6 @@
 # Vestis
 
-This repository contains scripts for processing, clustering, and analyzing fashion images (men and women) using machine learning techniques. The project involves preprocessing images, extracting features using a pre-trained deep learning model, clustering the images, and visualizing the results.
+This repository contains scripts for processing, clustering, and analyzing fashion images (men and women) using machine learning techniques. The project involves preprocessing images, extracting features using a pre-trained deep learning model, clustering the images, and visualizing the results. It is aimed at being used as a platform to be in use with other models to take an individual's wardrobe of clothing articles and give them a good combination of an outfit to wear while keeping in account their laundry clothes. This project was developed using a comprehensive dataset, of 15,000 images, that I compiled by gathering publicly available information from various sources across the internet. The data was collected responsibly, adhering to all applicable terms of service and privacy guidelines, and was used to create a meaningful and innovative solution.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
