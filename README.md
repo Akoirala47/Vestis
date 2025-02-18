@@ -56,7 +56,7 @@ The data for this project is stored on Google Drive. Follow these steps to downl
    ├── Vestis_Data/              # Raw data (men and women fashion images)
    │   ├── men_fashion/          # Raw men's fashion images
    │   └── women_fashion/        # Raw women's fashion images
-   ├── models/                   # Saved models (if any)
+   ├── models/                   # Models that get created (if any)
    └── processed/                # Processed data (e.g., features, cluster labels)
    ```
 ---
