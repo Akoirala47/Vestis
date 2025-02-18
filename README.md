@@ -4,12 +4,11 @@ This repository contains scripts for processing, clustering, and analyzing fashi
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [Setup](#setup)
-3. [Data Preparation](#data-preparation)
-4. [Script Execution Order](#script-execution-order)
-5. [Google Drive Data](#google-drive-data)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Data Preparation](#data-preparation)
+3. [Script Execution Order](#script-execution-order)
+4. [Google Drive Data](#google-drive-data)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ---
 
