@@ -47,7 +47,18 @@ The data for this project is stored on Google Drive. Follow these steps to downl
        ├── image2.jpg
        └── ...
    ```
-
+4. The overall directory structure of the project should look like this:
+   ```
+   ├── ProcessedImages/          # Processed images after resizing
+   │   ├── men_fashion/          # Processed men's fashion images
+   │   └── women_fashion/        # Processed women's fashion images
+   ├── Scripts_/                 # All Python scripts for the project
+   ├── Vestis_Data/              # Raw data (men and women fashion images)
+   │   ├── men_fashion/          # Raw men's fashion images
+   │   └── women_fashion/        # Raw women's fashion images
+   ├── models/                   # Saved models (if any)
+   └── processed/                # Processed data (e.g., features, cluster labels)
+   ```
 ---
 
 ## Script Execution Order
@@ -105,6 +116,8 @@ Run the scripts in the following order:
      ```bash
      python initialize_notebook.py
      ```
+
+
 
 ---
 
